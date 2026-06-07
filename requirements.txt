@@ -1,0 +1,10 @@
+setuptools
+wheel
+sklearn-lvq
+scikit-learn
+scipy<1.11.0
+matplotlib
+seaborn
+numpy<2.0.0
+pandas
+hickle
